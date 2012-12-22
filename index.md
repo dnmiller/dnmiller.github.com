@@ -38,15 +38,23 @@ Here's a sample "posts list".
   {% endfor %}
 </ul>
 
+## Software
+The interesting stuff:
+- [stepalize](http://www.github.com/dnmiller/stepalize): A robust method for building linear, time-invariant models from step responses. It can also support eigenvalue constraints via semidefinite programs. The meaty details and an interesting application can be found in the publication "Thermal Dynamical Identification of Light-Emitting Diodes by Step-Based Realization and Convex Optimization."
+
+- [RBIS](http://www.github.com/dnmiller/rbis): Some realization-based methods for building linear, time-invariant models form arbitrary input-output data using some results from classical realization theory. 
+
 ## Publications
 
 ### Book Chapters
+
 - D.N. Miller and R.A. de Callafon, “Identification of Linear Discrete-Time
   Filters via Realization,” Linear Algebra – Theorems and Applications, H.
   Yasser, Ed. InTech: 2012, [doi:
   10.5772/3107](http://dx.doi.org/10.5772/3107).
 
 ### Journal Papers
+
 - D.N. Miller and R.A. de Callafon, “Subspace Identification with Eigenvalue
   Constraints,” accepted to Automatica, 2013.
 
@@ -62,14 +70,16 @@ Here's a sample "posts list".
   Vol.35: 1169-1177, [doi: 10.2514/1.55770](http://dx.doi.org/10.2514/1.55770).
 
 ### Selected Conference Proceedings 
+
 - D.N. Miller, M.J. Brenner, and R.A. de Callafon, “Eigenvalue Constraints
   for Realization-Based Identification,” AIAA Atmospheric Flight Mechanics
   Conference, Minneapolis, MN: August 2012, [doi:
   10.2514/6.2012-4951](http://dx.doi.org/10.2514/6.2012-4951).
 
-- D.N. Miller and R.A. de Callafon, “Step-Based Realization with Eigenvalue
-  Constraints,” 16th IFAC Symposium on System Identification, Brussels,
-  Belgium: July 2012, [doi: 10.3182/20120711-3-BE-2027.00144](http://dx.doi.org/10.3182/20120711-3-BE-2027.00144).
+- D.N. Miller and R.A. de Callafon, “Identification of Linear Time-Invariant
+  Systems Via Constrained Step-Based Realization ,” 16th IFAC Symposium on
+  System Identification, Brussels, Belgium: July 2012, [doi:
+  10.3182/20120711-3-BE-2027.00144](http://dx.doi.org/10.3182/20120711-3-BE-2027.00144).
 
 - D.N. Miller and R.A. de Callafon, “Efficient Identification of Input
   Dynamics for Correlation Function-Based Subspace Identification,” Proc. of
