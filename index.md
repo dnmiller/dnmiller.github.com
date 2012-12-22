@@ -43,11 +43,13 @@ Here's a sample "posts list".
 ### Journal Papers
 - D.N. Miller and R.A. de Callafon, “Subspace Identification with Eigenvalue
   Constraints,” accepted to Automatica, 2013.
+
 - D.N. Miller, J. Hulett, J. McLaughlin, and R.A. de Callafon, “Thermal
   Dynamical Identification of Light-Emitting Diodes by Step-Based
   Realization and Convex Optimization,” in press, IEEE Transactions on
   Components, Packaging, and Manufacturing Technology, 2013, (preliminary
   [doi: 10.1109/TCPMT.2012.2229464](http://dx.doi.org/).
+
 - D.N. Miller, M.J. Brenner, and R.A. de Callafon, “A Covariance-Based
   Realization Algorithm for the Identification of Aeroelastic Dynamics from
   In-Flight Data,” AIAA Journal of Guidance, Control and Dynamics, 2012,
