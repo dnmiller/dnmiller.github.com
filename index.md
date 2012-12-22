@@ -40,7 +40,16 @@ Here's a sample "posts list".
 
 ## To-Do
 
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
-
-
+### Journal Papers
+- D.N. Miller and R.A. de Callafon, “Subspace Identification with Eigenvalue
+  Constraints,” accepted to Automatica, 2013.
+- D.N. Miller, J. Hulett, J. McLaughlin, and R.A. de Callafon, “Thermal
+  Dynamical Identification of Light-Emitting Diodes by Step-Based
+  Realization and Convex Optimization,” in press, IEEE Transactions on
+  Components, Packaging, and Manufacturing Technology, 2013, (preliminary
+  [doi: 10.1109/TCPMT.2012.2229464](http://dx.doi.org/).
+- D.N. Miller, M.J. Brenner, and R.A. de Callafon, “A Covariance-Based
+  Realization Algorithm for the Identification of Aeroelastic Dynamics from
+  In-Flight Data,” AIAA Journal of Guidance, Control and Dynamics, 2012,
+  Vol.35: 1169-1177, [doi:
+  10.2514/1.55770](http://dx.doi.org/10.2514/1.55770).
