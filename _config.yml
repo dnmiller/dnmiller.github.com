@@ -10,12 +10,13 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : Daniel N. Miller
-tagline: The personal website of Dan Miller.
+tagline: false
 author :
   name : Dan Miller
   email : dnmiller@gmail.com
   github : dnmiller
-  linkedin: dnmiller0
+  linkedin: dmiller0
+  twitter: false
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 

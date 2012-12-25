@@ -25,31 +25,29 @@
           {% if site.tagline %}
           <h2>{{ site.tagline }}</h2>
           {% endif %}
+          <ul class="menu">
+            {% assign pages_list = site.pages %}
+            {% assign group = 'navigation' %}
+            {% include JB/pages_list %}
+          </ul>
         </hgroup>
-        <ul class="buttons">
-          <li><a href="http://github.com/{{ site.author.github }}/" rel="me">Code <strong>GitHub</strong></a></li>
-          <li><a href="http://www.linkedin.com/in/{{ site.author.linkedin }}/" rel="me">Connect <strong>LinkedIn</strong></a></li>
-          <li><a href="http://twitter.com/{{ site.author.twitter }}/" rel="me">Follow <strong>Twitter</strong></a></li>
-        </ul>
       </header>
       <section class="main">
         {{ content }}
       </section>
       <aside>
-        <nav>
-          <ul>
-            {% assign pages_list = site.pages %}
-            {% assign group = 'navigation' %}
-            {% include JB/pages_list %}
-          </ul>
-        </nav>
         <ul>
-          <li class="contact"><a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
+          <li calss="contact">Find me on</li>
+          <li class="contact"><a href="http://www.linkedin.com/in/{{ site.author.linkedin }}">Linkedin</a></li>
+          <li class="contact"><a href="http://github.com/{{ site.author.github }}">github</a></li>
         </ul>
       </aside>
       <footer class="main">
         <p>
-          <small>Themed with <a href="http://sdb.github.com/jb-theme-ghminimal/">ghminimal</a> based on <a href="http://github.com/orderedlist/minimal/">minimal</a>. Powered by <a href="http://github.com/mojombo/jekyll">Jekyll</a> and <a href="http://pages.github.com/">GitHub Pages</a>.</small>
+          <small>
+              Powered by <a href="http://github.com/mojombo/jekyll">Jekyll</a> and <a href="http://pages.github.com/">GitHub Pages</a>.
+              Themed with a heavily edited <a href="http://sdb.github.com/jb-theme-ghminimal/">ghminimal</a> based on <a href="http://github.com/orderedlist/minimal/">minimal</a>. 
+          </small>
         </p>
       </footer>
     </div>

@@ -113,6 +113,13 @@ header.main {
   position:fixed;
 }
 
+header.main ul.menu{
+  width:270px;
+  list-style:none;
+  float:left;
+  padding:0;
+}
+
 header.main ul.buttons {
   list-style:none;
   height:40px;
