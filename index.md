@@ -38,8 +38,8 @@ aerospace industry. See publications page for details.
 The dynamic thermal response of integrated circuits is typically represented
 as a system of lumped time constants, and changes in these time constants
 imply attachment defects in the circuit. The standard way of detecting
-changes in time constants in ICs is to deconvolve the thermal step response
-and compare the "spectra" of two responses.
+changes in time constants in ICs is to deconvolve the measured thermal step
+response and compare the "spectra" of two responses.
 
 Working with Vektrex in San Diego, we developed a novel
 step-based-realization (SBR) method to identify the time-constants of the
