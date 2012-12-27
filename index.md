@@ -46,7 +46,8 @@ to guarantee consistent estimates, the models were identified using
 statistical measures of input-output data. This resulted in the development
 of some novel ID methods and software tools that are currently being used in
 the aerospace industry. See the [RBIS](https://github.com/dnmiller/rbis)
-toolbox and publications page for theoretical details.
+toolbox for some example methods and publications page for theoretical
+details.
 
 ### Fault Detection in Integrated Circuits
 
