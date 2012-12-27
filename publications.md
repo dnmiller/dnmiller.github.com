@@ -26,6 +26,8 @@ be found in my
   Realization and Convex Optimization,” _in press_, _IEEE Transactions on
   Components, Packaging, and Manufacturing Technology_, 2013, _preliminary_
   [doi: 10.1109/TCPMT.2012.2229464](http://dx.doi.org/10.1109/TCPMT.2012.2229464).
+  [(preprint
+  pdf)](https://dl.dropbox.com/u/31688552/Pubs/2012_Miller_IEEE_TCPMT.pdf)
 
 - D.N. Miller, M.J. Brenner, and R.A. de Callafon, “A Covariance-Based
   Realization Algorithm for the Identification of Aeroelastic Dynamics from
