@@ -104,6 +104,9 @@ th {
 }
 
 img {
+  display: block;
+  margin:auto;
+  vertical-align: middle; 
   max-width:100%;
 }
 
