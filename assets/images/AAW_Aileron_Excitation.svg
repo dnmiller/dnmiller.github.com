@@ -15,8 +15,11 @@
    id="svg3058"
    version="1.1"
    inkscape:version="0.48.1 r9760"
-   sodipodi:docname="AAW_Aileron_Excitation.pdf"
-   style="display:inline">
+   sodipodi:docname="AAW_Aileron_Excitation.svg"
+   style="display:inline"
+   inkscape:export-filename="/Users/dan/Code/dnmiller.github.com/assets/images/AAW_Aileron_Excitation.png"
+   inkscape:export-xdpi="120.29946"
+   inkscape:export-ydpi="120.29946">
   <defs
      id="defs3060">
     <marker
@@ -115,7 +118,7 @@
      inkscape:window-height="852"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="1"
+     inkscape:window-maximized="0"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
@@ -885,7 +888,7 @@
        sodipodi:cy="134.19368"
        sodipodi:rx="12.765958"
        sodipodi:ry="12.765958"
-       d="m -64.081273,146.58043 a 12.765958,12.765958 0 1 1 15.854322,-12.38675"
+       d="m -64.081273,146.58043 c -6.841015,-1.70565 -11.004046,-8.6341 -9.29839,-15.47511 1.705657,-6.84102 8.634103,-11.00405 15.475119,-9.29839 5.686802,1.41787 9.677593,6.52585 9.677593,12.38675"
        transform="matrix(0.40279571,0,0,0.68845018,-220.46782,1429.5304)"
        sodipodi:start="1.8151424"
        sodipodi:end="6.2831853"
@@ -895,7 +898,7 @@
        sodipodi:end="6.2831853"
        sodipodi:start="1.8151424"
        transform="matrix(-0.40279571,0,0,-0.68845018,-133.7888,1613.449)"
-       d="m -64.081273,146.58043 a 12.765958,12.765958 0 1 1 15.854322,-12.38675"
+       d="m -64.081273,146.58043 c -6.841015,-1.70565 -11.004046,-8.6341 -9.29839,-15.47511 1.705657,-6.84102 8.634103,-11.00405 15.475119,-9.29839 5.686802,1.41787 9.677593,6.52585 9.677593,12.38675"
        sodipodi:ry="12.765958"
        sodipodi:rx="12.765958"
        sodipodi:cy="134.19368"

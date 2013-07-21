@@ -19,7 +19,8 @@ be found in my
 ### Journal Papers
 
 - D.N. Miller and R.A. de Callafon, “Subspace Identification with Eigenvalue
-  Constraints,” _accepted_, _Automatica_, 2013.
+  Constraints,” _Automatica_, 2013, Vol. 49: 2468-2473, [doi:
+  10.1016/j.automatica.2013.04.028](http://dx.doi.org/10.1016/j.automatica.2013.04.028).
 
 - D.N. Miller, J. Hulett, J. McLaughlin, and R.A. de Callafon, “Thermal
   Dynamical Identification of Light-Emitting Diodes by Step-Based
