@@ -4,7 +4,7 @@ title: Hello World!
 ---
 {% include JB/setup %}
 
-This is the personal site of Daniel N. Miller. It's mostly a landing page
+This is the personal site of Daniel N. Miller. It's a landing page
 for my software and publications. Check out my
 [Linkedin](http://www.linkedin.com/in/dmiller0/) page for a bio and job
 history.

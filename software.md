@@ -5,11 +5,8 @@ group: navigation
 ---
 {% include JB/setup %}
 
-I have extensive professional experience in software engineering in C/C++
-and Python for control-systems, data analysis, and simulation. And I've
-spent more time with Matlab/Simulink than I care to think about.
-
-I've also written a couple of Matlab toolboxes:
+I have extensive professional experience in software engineering in Matlab/Simulink, C/C++,
+and Python for control-systems, data analysis, and simulation. Below are a couple of Matlab toolboxes I've developed:
 
 ### [stepalize](http://www.github.com/dnmiller/stepalize)
 A robust method for building linear, time-invariant models from step
