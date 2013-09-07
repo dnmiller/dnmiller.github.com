@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Notes On Things</title>
+  <meta charset="utf-8" />
+  <link href="http://fonts.googleapis.com/css?family=Crimson+Text:400,700|Droid+Serif:700" rel="stylesheet"/>
+  
+  <script src="js/config.js"></script>
+  
+  <script src="js/skel.min.js"></script>
+  
+<script type="text/javascript" src="https://c328740.ssl.cf1.rackcdn.com/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+    MathJax.Hub.Config({
+      "tex2jax": { inlineMath: [ [ '$', '$' ] ] },
+      TeX: { 
+        equationNumbers: { autoNumber: "AMS" }},
+    });
+</script>
+</head>
+
+<body>
+
+  $
+    \newcommand{\bmat}[1]{\begin{bmatrix}#1\end{bmatrix}}
+$
+
+  <div class="container">
+    <!-- Header -->
+      <div id="header" class="row">
+        <div class="6u">
+          <h1><a href=".">Notes On Things</a></h1>
+        </div>
+        <nav id="nav" class="6u">
+          
+          <a href=".">Contents</a>
+          
+          <a href=".#">Github</a>
+          
+        </nav>
+      </div>
+
+    <!-- Features -->
+      <div class="row">
+      <section class="9u">
+      <h1>This is a test</h1>
+<p>Hi</p>
+<ol>
+<li>This is an item</li>
+<li>
+<p>And this is another</p>
+</li>
+<li>
+<p>OK</p>
+</li>
+<li>Wut</li>
+</ol>
+<h1>Um ok</h1>
+<p>I'm not sure if this works <mathjax>$ax = b$</mathjax></p>
+<p><mathjax>$$
+    \begin{equation}
+    \bmat{
+    a &amp; b &amp; c &amp; d \\
+    e &amp; f &amp; g &amp; h
+    }
+    =
+    \int_0^\infty \frac{x^3}{e^x-1}\,dx = \frac{\pi^4}{15}
+    \label{eq:sample}
+    \end{equation}
+$$</mathjax></p>
+<p>and then </p>
+      </section>
+
+      <section id="sidebar" class="3u">
+      
+      </section>
+      </div>
+
+  <!-- Footer -->
+    <div id="footer">
+      © D.N.Miller. All rights reserved.
+    </div>
+  </div>
+</body>
+</html>

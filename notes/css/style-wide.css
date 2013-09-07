@@ -1,0 +1,33 @@
+body {
+  font-size: 15pt;
+  letter-spacing: 0.035em;
+  line-height: 1.75em;
+}
+h1 {
+  font-size: 1.5em;
+}
+h2 {
+  font-size: 1.25em;
+  margin-bottom: 0.75em;
+}
+.button {
+  font-size: 1.25em;
+  padding: 0.65em 2.25em 0.65em 2.25em;
+}
+#header {
+  margin-top: 3em;
+}
+#nav {
+  text-align: right;
+  font-size: 0.5em;
+}
+#nav a {
+  margin-left: 2em;
+}
+#sidebar {
+  font-size: 0.85em;
+  line-height: 1.5em;
+}
+#footer {
+  margin: 3em 0 3em 0;
+}

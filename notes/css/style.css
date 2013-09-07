@@ -1,0 +1,39 @@
+body {
+  background: #F0F2EB;
+  font-family: 'Crimson Text', serif;
+  color: #34373D;
+  line-height: 2em;
+}
+a {
+  color: #34373D;
+  text-decoration: none;
+}
+h1, h2, h3, h4, h5, h6 {
+  color: #51333A;
+  font-weight: bold;
+  padding-top: 1.0em;
+}
+ol {
+  list-style-type: decimal;
+  padding-left: 2.5em;
+}
+ul {
+  list-style-type: disc;
+  padding-left: 2.5em;
+}
+#header {
+  font-size: 1.8em;
+  vertical-align: text-bottom;
+}
+#sidebar {
+  /*background: #fff;*/
+}
+#nav a {
+  font-style: italic;
+  text-decoration: none;
+}
+#footer {
+  color: #62696c;
+  text-align: center;
+  font-size: 0.6em;
+}
